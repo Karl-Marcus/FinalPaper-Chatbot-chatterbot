@@ -4,8 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-chatterbot = "==1.0.4"
-unidecode = "*"
 
 [dev-packages]
 
